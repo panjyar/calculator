@@ -1,2 +1,2 @@
 # calculator
-[click here])( https://panjyar.github.io/calculator/)
+(click here)[https://panjyar.github.io/calculator/]
